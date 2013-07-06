@@ -1,0 +1,1 @@
+This sample app was created with the intention of exploring mongoDB and node.js. The examples are taken from Jump Start Node. 
